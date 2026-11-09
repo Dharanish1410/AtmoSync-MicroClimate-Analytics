@@ -1,4 +1,4 @@
-parameter_name,unit,warning_threshold,critical_threshold,description,status
-temperature_c,°C,8.0,12.0,Illustrative temperature warning/critical thresholds for the demo; confirm approved avocado limits.,PROVISIONAL - confirm with mentor
-humidity_pct,%,85.0,90.0,Illustrative high-humidity warning/critical thresholds for the demo; confirm approved limits.,PROVISIONAL - confirm with mentor
-vibration_g,g,0.5,1.0,Illustrative vibration warning/critical thresholds for the demo; confirm sensor units and approved limits.,PROVISIONAL - confirm with mentor
+parameter,unit,warning_min,warning_max,critical_max,description
+temperature_c,C,5,8,10,Sample temperature thresholds
+humidity_percent,%,85,95,98,Sample humidity thresholds
+vibration_g,g,0,1.5,2.5,Sample vibration thresholds
