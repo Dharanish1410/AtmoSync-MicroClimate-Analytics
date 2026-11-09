@@ -1,0 +1,10 @@
+timestamp,commodity,variety,market,currency,price_per_unit,price_unit,source_type,is_mock_data
+2026-11-10 09:00:00,Avocado,Hass,Mumbai,INR,180.0,kg,synthetic_sample,True
+2026-11-10 09:00:00,Avocado,Hass,Delhi,INR,195.0,kg,synthetic_sample,True
+2026-11-10 09:00:00,Avocado,Hass,Jaipur,INR,188.0,kg,synthetic_sample,True
+2026-11-11 09:00:00,Avocado,Hass,Mumbai,INR,184.0,kg,synthetic_sample,True
+2026-11-11 09:00:00,Avocado,Hass,Delhi,INR,198.0,kg,synthetic_sample,True
+2026-11-11 09:00:00,Avocado,Hass,Jaipur,INR,190.0,kg,synthetic_sample,True
+2026-11-12 09:00:00,Avocado,Hass,Mumbai,INR,182.0,kg,synthetic_sample,True
+2026-11-12 09:00:00,Avocado,Hass,Delhi,INR,202.0,kg,synthetic_sample,True
+2026-11-12 09:00:00,Avocado,Hass,Jaipur,INR,193.0,kg,synthetic_sample,True
