@@ -1,0 +1,7 @@
+date,commodity,market,currency,price_per_kg,data_type
+2026-11-09,Avocados,Mumbai,INR,180,sample
+2026-11-09,Avocados,Delhi,INR,195,sample
+2026-11-09,Avocados,Jaipur,INR,190,sample
+2026-11-10,Avocados,Mumbai,INR,185,sample
+2026-11-10,Avocados,Delhi,INR,198,sample
+2026-11-10,Avocados,Jaipur,INR,192,sample

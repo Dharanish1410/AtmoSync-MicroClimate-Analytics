@@ -1,0 +1,4 @@
+parameter,unit,warning_min,warning_max,critical_max,description
+temperature_c,C,5,8,10,Sample temperature thresholds
+humidity_percent,%,85,95,98,Sample humidity thresholds
+vibration_g,g,0,1.5,2.5,Sample vibration thresholds
