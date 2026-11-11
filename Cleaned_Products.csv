@@ -1,0 +1,51 @@
+product_id,brand,product_name,category,manufacturing_year,original_price_inr,warranty_months
+P001,Dell,Dell Vostro 14,Laptop,2022,84797,36
+P002,Dell,Dell Vostro 13,Laptop,2019,95545,36
+P003,Apple,Apple MacBook Pro 16,Laptop,2023,94021,12
+P004,Acer,Acer TravelMate 14,Laptop,2021,55993,36
+P005,Apple,Apple MacBook Pro 16,Laptop,2020,97724,24
+P006,Lenovo,Lenovo ThinkPad 15,Laptop,2018,137108,12
+P007,Acer,Acer Swift 15,Laptop,2019,54001,36
+P008,Apple,Apple MacBook Air 16,Laptop,2018,86254,36
+P009,Apple,Apple MacBook Pro 13,Laptop,2023,76849,24
+P010,Lenovo,Lenovo ThinkPad 13,Laptop,2021,120488,36
+P011,Acer,Acer Swift 16,Laptop,2020,82248,12
+P012,Acer,Acer TravelMate 14,Laptop,2018,126503,12
+P013,Lenovo,Lenovo ThinkPad 14,Laptop,2022,72972,12
+P014,Lenovo,Lenovo ThinkBook 14,Laptop,2024,53479,36
+P015,Apple,Apple MacBook Pro 14,Laptop,2018,123302,36
+P016,Lenovo,Lenovo ThinkBook 14,Laptop,2023,138280,12
+P017,HP,HP Pavilion 13,Laptop,2022,130765,12
+P018,Acer,Acer Aspire 16,Laptop,2023,124742,24
+P019,Lenovo,Lenovo ThinkBook 16,Laptop,2019,98899,24
+P020,Lenovo,Lenovo IdeaPad 13,Laptop,2018,63230,12
+P021,Lenovo,Lenovo ThinkBook 14,Laptop,2022,133335,24
+P022,Dell,Dell Vostro 15,Laptop,2022,100018,24
+P023,Dell,Dell Inspiron 14,Laptop,2023,104327,12
+P024,HP,HP ProBook 13,Laptop,2024,66803,24
+P025,Acer,Acer Swift 13,Laptop,2018,129493,12
+P026,Acer,Acer Aspire 14,Laptop,2024,84946,24
+P027,Dell,Dell Inspiron 16,Laptop,2021,149553,24
+P028,Lenovo,Lenovo IdeaPad 16,Laptop,2020,71940,12
+P029,HP,HP EliteBook 13,Laptop,2018,123729,36
+P030,Apple,Apple MacBook Air 13,Laptop,2023,138572,24
+P031,Acer,Acer Aspire 15,Laptop,2021,91997,24
+P032,Dell,Dell Inspiron 14,Laptop,2019,113626,24
+P033,Apple,Apple MacBook Air 13,Laptop,2024,74398,12
+P034,HP,HP Pavilion 16,Laptop,2020,91933,36
+P035,Lenovo,Lenovo ThinkPad 16,Laptop,2023,65305,36
+P036,HP,HP Pavilion 14,Laptop,2023,119746,12
+P037,Dell,Dell Latitude 16,Laptop,2021,49671,24
+P038,Apple,Apple MacBook Air 14,Laptop,2023,127996,24
+P039,Lenovo,Lenovo ThinkPad 16,Laptop,2021,37245,36
+P040,Lenovo,Lenovo ThinkBook 14,Laptop,2022,70497,24
+P041,Dell,Dell Inspiron 15,Laptop,2018,107306,12
+P042,Apple,Apple MacBook Air 13,Laptop,2023,55637,24
+P043,Dell,Dell Latitude 13,Laptop,2022,112936,12
+P044,Dell,Dell Inspiron 13,Laptop,2023,69499,36
+P045,Acer,Acer TravelMate 14,Laptop,2021,105432,24
+P046,HP,HP EliteBook 16,Laptop,2019,83088,24
+P047,Lenovo,Lenovo ThinkBook 13,Laptop,2018,66722,24
+P048,Apple,Apple MacBook Air 16,Laptop,2021,53517,24
+P049,Lenovo,Lenovo IdeaPad 14,Laptop,2023,144684,12
+P050,Lenovo,Lenovo IdeaPad 14,Laptop,2023,67724,12
