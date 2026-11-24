@@ -1,0 +1,29 @@
+version: 2
+
+models:
+  - name: stg_products
+    columns:
+      - name: product_id
+        data_tests:
+          - not_null
+          - unique
+
+  - name: stg_components
+    columns:
+      - name: component_id
+        data_tests:
+          - not_null
+
+  - name: stg_resale_market
+    columns:
+      - name: resale_id
+        data_tests:
+          - not_null
+          - unique
+
+  - name: stg_warranty
+    columns:
+      - name: warranty_id
+        data_tests:
+          - not_null
+          - unique
