@@ -39,5 +39,7 @@ Traditional supply chain monitoring systems often fail to detect hyperlocal temp
 ---
 
 ## 📋 Review & Progress Notes
-- Week 1 and Week 2 progress write-ups submitted on the Infotact portal (`ITS/DA/1751`).
-- Tracking live ingestion (`RAW_IOT_TELEMETRY`), `dbt` validation, and Superset dashboard readiness for review.
+1. **Portal Submissions (ITS/DA/1751):** Week 1 and Week 2 write-ups submitted; tracking team review status.
+2. **Pipeline Status:** Verified Kafka ingestion into RAW_IOT_TELEMETRY, dbt staging tests, and Superset charts.
+3. **Review Notes:** Maintaining daily main branch commits and validating end-to-end telemetry flow.
+4. **Data Quality & Models:** Reviewing dbt staging transformations, schema tests, and Superset dashboard metrics.
