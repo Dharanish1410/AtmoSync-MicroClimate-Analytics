@@ -36,3 +36,8 @@ Traditional supply chain monitoring systems often fail to detect hyperlocal temp
 - **`superset/`** — Apache Superset dashboard configurations & exports
 - **`atmosync_analysis.ipynb`** — Exploratory & micro-climate analysis notebook
 - **`README.md`** — Project overview, architecture, and documentation
+---
+
+## 📋 Review & Progress Notes
+- Week 1 and Week 2 progress write-ups submitted on the Infotact portal (`ITS/DA/1751`).
+- Tracking live ingestion (`RAW_IOT_TELEMETRY`), `dbt` validation, and Superset dashboard readiness for review.
